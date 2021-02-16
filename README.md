@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karkar213
 - 👀 I’m interested in deep learning 
 - 🌱 I’m currently learning python/tensorflow
-- 💞️ I’m looking to collaborate on doing a psychological analysis or brain reading 
+- 💞️ I’m looking to collaborate on doing a psychological analysis
 - 📫 How to reach me aimenmoh2012@yahoo.com
 
 kar213/karkar213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
